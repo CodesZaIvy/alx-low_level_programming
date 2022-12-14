@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - Description Entry
- * Return : 1 (Success)
+ * main-Entry
+ * Return:1
  */
 int main(void)
 {
