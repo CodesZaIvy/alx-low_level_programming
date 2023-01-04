@@ -4,7 +4,7 @@
 /**
  * main - Prints the last digit of a randomly generated number
  * and whether it is greater than 5,less than 6  and not 0;and is 0
- * return : Always 0.
+ * return : Always 0 (Success)
  */
 int main(void)
 {
