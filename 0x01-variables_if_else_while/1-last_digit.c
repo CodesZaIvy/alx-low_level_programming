@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main- Prints the last digit
+ * main - Prints the last digit
  * and whether it is greater than 5,less than 6  and not 0;and is 0
- * return : Always 0
+ * return : Always 0.
  */
 int main(void)
 {
